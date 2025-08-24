@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meditation-paywall/static/css/main.f855e6bc.css",
+    "main.js": "/meditation-paywall/static/js/main.611e005d.js",
+    "static/js/453.6ed9280f.chunk.js": "/meditation-paywall/static/js/453.6ed9280f.chunk.js",
+    "index.html": "/meditation-paywall/index.html",
+    "main.f855e6bc.css.map": "/meditation-paywall/static/css/main.f855e6bc.css.map",
+    "main.611e005d.js.map": "/meditation-paywall/static/js/main.611e005d.js.map",
+    "453.6ed9280f.chunk.js.map": "/meditation-paywall/static/js/453.6ed9280f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.611e005d.js"
+  ]
+}
